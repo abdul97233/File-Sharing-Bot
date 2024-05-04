@@ -24,12 +24,12 @@
 </p>
 
 ##
-![GitHub repo size](https://img.shields.io/github/repo-size/abdul97233/fb-chat-bot-heroku?color=yellow)
+![GitHub repo size](https://img.shields.io/github/repo-size/abdul97233/File-Sharing-Bot?color=yellow)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/NTMtag)
-![GitHub](https://img.shields.io/github/license/abdul97233/fb-chat-bot-heroku)
-[![Bot Support](https://img.shields.io/badge/Fb%20Chat%20Bot-support%20group-blue)](https://t.me/ntmchat)
+![GitHub](https://img.shields.io/github/license/abdul97233/File-Sharing-Bot)
+[![Bot Support](https://img.shields.io/badge/File%20Sharing%20Bot-support%20group-blue)](https://t.me/ntmchat)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/ntmpro)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/abdul97233/fb-chat-bot-heroku)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/abdul97233/File-Sharing-Bot)
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
 I Guess This Will Be Usefull For Many People.....😇. 

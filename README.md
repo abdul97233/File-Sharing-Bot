@@ -5,7 +5,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
   <a href="https://t.me/abdul97233">
-    <img src="https://github.com/abdul97233/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
+    <img src="https://img.shields.io/badge/Abdul-Kalam%20-orange?style=for-the-badge&logo=pyrogram">
   </a><br>
   <a href="https://t.me/abdul97233">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;

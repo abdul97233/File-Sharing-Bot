@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/Abdul-Kalam%20-orange?style=for-the-badge&logo=pyrogram">
   </a><br>
   <a href="https://t.me/NTMPRO">
-    &nbsp;<img src="https://img.shields.io/badge/NTM%20%F0%9D%95%8F%20Pro-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="" width="130" height="18">&nbsp;
   </a>
   <a href="https://t.me/NTMChat">
-    &nbsp;<img src="https://img.shields.io/badge/NTM%20%F0%9D%95%8F%20Chat-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/NTM%20Chat-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
   <a href="https://github.com/abdul97233/File-Sharing-Bot/stargazers">

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
+    <img src="https://img.shields.io/badge/PYTHON-PROJECT-blueviolet?style=for-the-badge&logo=python">
   </a>
   <a href="https://t.me/abdul97233">
     <img src="https://img.shields.io/badge/Abdul-Kalam%20-orange?style=for-the-badge&logo=pyrogram">
